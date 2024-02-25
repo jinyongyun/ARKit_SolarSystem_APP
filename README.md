@@ -2,7 +2,8 @@
 
 ☀️ ARKit을 이용한 태양계 증강현실 앱 만들기!
 새로운 시리즈로 돌아왔다!
-![KakaoTalk_Image_2024-02-20-14-17-03](https://github.com/jinyongyun/ARKit_SolarSystem_APP/assets/102133961/eac1b827-579e-4b8f-a6dc-5519083324fb)
+![KakaoTalk_Video_2024-02-20-14-17-08](https://github.com/jinyongyun/ARKit_SolarSystem_APP/assets/102133961/31acfd9a-54c3-44cb-b2f7-60c4342861a8)
+
 
 이번 시리즈는 바로 AR(증강현실) 그리고 ML(머신러닝)을 이용한 앱을 만들어 볼 것이다.
 
